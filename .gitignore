@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+test-output/
+*.log
+
+# Temporary
+tmp/
+temp/
+*.tmp
